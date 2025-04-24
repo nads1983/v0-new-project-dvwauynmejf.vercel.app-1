@@ -135,7 +135,7 @@ export default function Home() {
               id="post"
               value={post}
               onChange={(e) => setPost(e.target.value)}
-              placeholder="Paste the LinkedIn post you want to comment on..."
+              placeholder="Paste the LinkedIn post URL you want to comment on..."
               className="min-h-[150px] border border-gray-200 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 text-gray-800 shadow-sm"
             />
           </div>
