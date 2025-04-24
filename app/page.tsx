@@ -197,7 +197,7 @@ export default function Home() {
         
         {/* Footer */}
         <div className="text-center text-gray-400 text-sm mt-8">
-          <p>© {new Date().getFullYear()} LinkedIn Comment Generator. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} LinkedIn Comment . All rights reserved.</p>
         </div>
       </div>
     </main>
